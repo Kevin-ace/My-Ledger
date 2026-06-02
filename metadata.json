@@ -1,0 +1,8 @@
+{
+  "name": "M-Pesa Budget Tracker",
+  "description": "Automated budgeting and expense tracking by parsing M-Pesa SMS messages with AI-powered categorization and a conversational chatbot helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
